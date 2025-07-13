@@ -32,3 +32,28 @@ In conclusion, this spam detection system provides a foundation for building mor
 
 # OUTPUT
 
+
+
+
+
+*(1)*
+
+
+
+<img width="559" height="248" alt="Image" src="https://github.com/user-attachments/assets/26f20d8a-6a74-444e-b1ae-dc16fc99f755" />
+
+
+
+
+
+*(2)*
+
+
+<img width="518" height="338" alt="Image" src="https://github.com/user-attachments/assets/47082483-e59a-4c2f-ba90-3716c1d4d9b5" />
+
+
+
+
+
+*(3)*
+<img width="742" height="578" alt="Image" src="https://github.com/user-attachments/assets/c65d52da-d025-45a8-8839-a150c8b273cd" />
